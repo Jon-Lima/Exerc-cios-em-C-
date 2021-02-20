@@ -1,2 +1,2 @@
 # Exercícios
-Solucionando problemas usando C# 
+Solucionando problemas com C# 
